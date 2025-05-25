@@ -19,7 +19,7 @@ A simple and parameterized **Single Port RAM** module implemented in Verilog and
 
 ## 📁 File Structure
 ```
-single-port-ram-verilog/
+single-port-ram/
 ├── src/
 │   └── single_port_ram.v
 ├── sim/
