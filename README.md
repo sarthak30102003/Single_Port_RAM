@@ -35,7 +35,7 @@ single-port-ram/
 
 ## 📷 Waveform Snapshot
 
-![Simulation Waveform](sim/single_port_ram_waveform.png) <!-- Replace with actual path if uploading -->
+![Simulation Waveform](single-port-ram/sim/single_port_ram_waveform.png) <!-- Replace with actual path if uploading -->
 
 ---
 
